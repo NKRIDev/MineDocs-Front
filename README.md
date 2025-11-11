@@ -54,7 +54,7 @@ The application supports four project categories with customizable forms:
 git clone https://github.com/NKRIDev/MineDocs-Front.git
 
 # Navigate within the folder
-cd cahier-charges-app
+cd MineDocs-Front
 
 # Install dependencies
 npm install
