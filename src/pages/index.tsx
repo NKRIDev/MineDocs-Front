@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { Button } from "@heroui/button";
 
 /*
-Landing page
+Hero/Home page
 TODO:  a faire
  */
 const IndexDefault = () => {
