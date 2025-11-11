@@ -34,6 +34,7 @@ function App() {
         />
 
         {/*Edit a project*/}
+        {/*TOOD : protéger la ROUTE !*/}
         <Route
           element={
             <Editor />
